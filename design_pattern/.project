@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>design_pattern</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/abstract_factory_pattern/Screenshot from 2014-06-01 21:50:55.png</name>
+			<type>1</type>
+			<location>/home/algotree/Pictures/Screenshot from 2014-06-01 21::50::55.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
